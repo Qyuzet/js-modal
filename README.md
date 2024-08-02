@@ -1,6 +1,6 @@
 # JS Modal
 
-This project demonstrates a simple modal implementation using JavaScript, HTML, and CSS.
+This project demonstrates a simple modal implementation using JavaScript, HTML, and CSS. [TRY HERE](https://qyuzet.github.io/js-modal)
 
 ## Features
 
